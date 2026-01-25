@@ -6,6 +6,20 @@ Created by Glenn Jones
 
 ---
 
+## 📖 INTRODUCTION
+
+**Drymon Echo** combines vintage tape saturation with a versatile doubletracker/delay engine, bringing the warmth and character of analog tape machines to your NTS-3 kaoss pad. From subtle chorus to wild flanging, slapback echoes to creative stereo effects - all with organic tape wobble and real-time touchpad control.
+
+### What Makes It Special
+
+- **Dual Tape Voices**: Classic soft-knee saturation or Cassette ALC compression
+- **Continuous Lag Range**: -0.3ms to 500ms (flange through echo)
+- **Organic Wobble**: Authentic tape flutter (10-30Hz) and wow (0.5-2Hz) modulation
+- **Three Stereo Modes**: Sum (wide), Invert (through-zero), Bounce (ping-pong)
+- **Live Performance Ready**: Real-time touchpad control with two modes
+- **Professional Quality**: 32-bit float processing, 48kHz sample rate
+
+
 ## 📦 PACKAGE CONTENTS
 
 This package includes:
