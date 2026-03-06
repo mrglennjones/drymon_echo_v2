@@ -42,19 +42,6 @@ This package includes:
 
 ---
 
-## 🎛️ WHAT IS IT?
-
-Drymon Echo combines vintage tape saturation with a versatile doubletracker/delay engine:
-
-- **Dual Tape Voices**: Classic (soft-knee) or Cassette (ALC compression)
-- **Continuous Delay**: From -0.3ms flange to 500ms echo
-- **Organic Wobble**: Authentic tape flutter (10-30Hz) and wow (0.5-2Hz)
-- **Three Stereo Modes**: Sum (wide), Invert (through-zero), Bounce (ping-pong)
-- **Live Control**: Real-time touchpad with two modes
-- **Pro Quality**: 32-bit float, 48kHz, <1ms latency
-
----
-
 ## 🎯 QUICK PRESETS
 
 **Classic Chorus** (Safe Starting Point)
